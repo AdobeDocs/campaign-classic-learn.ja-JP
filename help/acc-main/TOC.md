@@ -7,8 +7,8 @@ breadcrumb-title: Campaign Classic v7 チュートリアル
 auto-video-transcripts: true
 source-git-commit: 1dc9c2423e3643e8d73719f5813ea99e14414f9c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '415'
+ht-degree: 100%
 
 ---
 

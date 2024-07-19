@@ -11,16 +11,16 @@ level: Beginner
 exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 72%
+source-wordcount: '70'
+ht-degree: 30%
 
 ---
 
 # ターゲティングワークフローの作成
 
-Adobe Campaign では、ワークフローを使用して、ターゲティングキャンペーンの遂行、キャンペーンの作成、または Adobe Campaign の技術プロセスの実行をおこないます。このビデオでは、ターゲティングワークフローに焦点を当てます。 ターゲティングワークフローにより、配信ターゲットをいくつか作成できます。
+Adobe Campaignでは、ワークフローを使用して、ターゲティングキャンペーンの実行、キャンペーンの作成、またはAdobe Campaignの技術プロセスの実行をおこないます。 このビデオでは、ターゲティングワークフローについて説明します。 ターゲティングワークフローにより、配信ターゲットをいくつか作成できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
 
-ドキュメントを参照してください [ワークフローについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=ja)
-および [ターゲティングアクティビティについて](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ja) を参照してください。
+詳しくは、ドキュメント [ ワークフローについて ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=ja) を参照してください。
+さらに詳しくは、[ ターゲティングアクティビティについて ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ja) を参照してください。

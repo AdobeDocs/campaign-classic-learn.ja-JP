@@ -12,8 +12,8 @@ level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 98%
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on){transcript=true}
 
-**前のステップ**
+**前の手順**
 
 ステップ1：[アプリ購読スキーマを拡張して、プッシュ通知をパーソナライズする](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 

@@ -12,8 +12,8 @@ level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 97%
+source-wordcount: '77'
+ht-degree: 100%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 97%
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
 
-**次のステップ**
+**次の手順**
 
 ステップ 2：[Android サービスを設定して Campaign で Android モバイルアプリケーションを作成する](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
