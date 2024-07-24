@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Classic v7 チュートリアル
 user-guide-description: Adobe Campaign Classic v7 のビデオとチュートリアル。
 breadcrumb-title: Campaign Classic v7 チュートリアル
 auto-video-transcripts: true
-source-git-commit: 1dc9c2423e3643e8d73719f5813ea99e14414f9c
+source-git-commit: c87b64213114f35d01e0edd8b13b0bab483ec346
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 100%
@@ -47,6 +47,8 @@ ht-degree: 100%
       + [メール配信の問題のトラブルシューティング](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [メール配信への添付ファイルの追加](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [配信品質を考慮したメールの設計](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [メールの ROI の最大化と購読者の再エンゲージメントに関するベストプラクティス](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ja)
+      + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
    + SMS チャネル {#sms-channel}
       + [SMS 配信の作成](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + プッシュチャネル {#push-channel}
@@ -106,5 +108,4 @@ ht-degree: 100%
 + [Adobe Campaign のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ja)
 + 戦略とソートリーダーシップ{#strategy}
    + [マーケター向け Adobe Campaign 成功のベストプラクティス 10 件](/help/strategy/10-best-practices-for-marketers.md)
-   + [メールの ROI の最大化と購読者の再エンゲージメントに関するベストプラクティス](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ja)
-   + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
+   + 
