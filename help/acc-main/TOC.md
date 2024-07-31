@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Classic v7 チュートリアル
 user-guide-description: Adobe Campaign Classic v7 のビデオとチュートリアル。
 breadcrumb-title: Campaign Classic v7 チュートリアル
 auto-video-transcripts: true
-source-git-commit: c87b64213114f35d01e0edd8b13b0bab483ec346
+source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 100%
@@ -108,4 +108,3 @@ ht-degree: 100%
 + [Adobe Campaign のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ja)
 + 戦略とソートリーダーシップ{#strategy}
    + [マーケター向け Adobe Campaign 成功のベストプラクティス 10 件](/help/strategy/10-best-practices-for-marketers.md)
-   + 
