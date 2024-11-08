@@ -7,12 +7,12 @@ doc-type: feature video
 activity: understand
 team: PM
 role: Admin
-level: Beginner
+level: Intermediate
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 100%
+source-wordcount: '159'
+ht-degree: 96%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 [!UICONTROL 監査記録]は、Adobe Campaign 内で発生するアクションとイベントの包括的なリストをリアルタイムで記録します。[!UICONTROL 監査記録]機能には、セルフサービス方式でデータの履歴にアクセスして次のような質問に回答するための手段が含まれています。
 
 * オブジェクトに何が起きたか
-* 誰が最後にいつ修正したか
+* 誰がいつ、最後に変更したか？
 * 前の状態
 
 >[!NOTE]

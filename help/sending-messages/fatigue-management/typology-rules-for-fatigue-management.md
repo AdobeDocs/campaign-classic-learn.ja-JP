@@ -7,11 +7,11 @@ doc-type: feature video
 activity: use
 team: TM
 role: User
-level: Beginner
+level: Intermediate
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 100%
 
 ---
