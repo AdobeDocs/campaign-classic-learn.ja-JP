@@ -8,7 +8,7 @@ activity: use
 level: Intermediate
 team: TM
 source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '252'
 ht-degree: 100%
 
