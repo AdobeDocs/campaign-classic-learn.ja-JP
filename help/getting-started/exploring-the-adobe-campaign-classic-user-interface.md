@@ -21,4 +21,4 @@ ht-degree: 100%
 
 このレッスンでは、Adobe Campaign Classic のメインユーザーインターフェイスについて説明し、主な機能のナビゲート方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39533?quality=12&learn=on&captions=jpn){transcript=true}

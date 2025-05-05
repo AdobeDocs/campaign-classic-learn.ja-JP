@@ -21,4 +21,4 @@ ht-degree: 100%
 
 メール配信に添付ファイルを追加する方法と、様々なタイプのメール添付ファイルを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452990?quality=12&learn=on&captions=jpn){transcript=true}

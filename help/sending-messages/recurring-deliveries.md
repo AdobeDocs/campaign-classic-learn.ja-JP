@@ -38,10 +38,10 @@ ht-degree: 100%
 
 このビデオでは、繰り返し配信とスケジューラーアクティビティを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27508?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## 連続配信の設定方法 {#how-to-set-up-a-continuous-delivery}
 
 このビデオでは、増分処理クエリを使用して連続配信を設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27513?quality=12&learn=on&captions=jpn){transcript=true}

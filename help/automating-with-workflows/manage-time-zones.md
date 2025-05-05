@@ -19,4 +19,4 @@ ht-degree: 100%
 
 スケジュールされたワークフローアクティビティにタイムゾーンを適用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443847?quality=12&learn=on&captions=jpn){transcript=true}

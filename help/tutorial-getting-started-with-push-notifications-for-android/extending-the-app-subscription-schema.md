@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL アプリ購読]スキーマを拡張して、モバイルアプリから [!DNL Campaign] が受け取るパーソナライズ値を格納する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445553?quality=12&learn=on&captions=jpn){transcript=true}
 
 **次の手順**
 

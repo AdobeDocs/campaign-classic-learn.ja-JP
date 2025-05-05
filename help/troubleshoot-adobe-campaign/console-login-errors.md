@@ -18,4 +18,4 @@ ht-degree: 100%
 
 コンソールへのログイン時に発生したエラーを修正する方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/335896?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437767?quality=12&learn=on&captions=jpn){transcript=true}

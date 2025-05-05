@@ -21,7 +21,7 @@ ht-degree: 100%
 
 配信品質のベストプラクティスを Campaign に適用する方法を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452559?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## その他のリソース
 

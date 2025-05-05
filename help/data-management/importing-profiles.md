@@ -20,4 +20,4 @@ ht-degree: 6%
 
 このビデオでは、Adobe Campaign Classicでプロファイルを読み込む方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328395?quality=12&learn=on&captions=jpn){transcript=true}

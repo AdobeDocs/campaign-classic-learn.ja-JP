@@ -25,7 +25,7 @@ ht-degree: 89%
 
 次のビデオでは、Adobe Campaign Classic で AMP を有効にする方法を説明し、その使用方法を紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35081?quality=12&learn=on&captions=jpn){transcript=true}
 
 [AMP エディター](https://playground.amp.dev/)を使用して、独自の AMP コードを作成できます。
 

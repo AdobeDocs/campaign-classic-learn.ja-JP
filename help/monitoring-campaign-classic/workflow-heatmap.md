@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Adobe Campaign ワークフローヒートマップは、現在実行中のすべてのワークフローを色分けしてグラフィカルに表現したものです。同時実行ワークフロー数の概要をすばやく把握できるので、Adobe Campaign プラットフォーム管理者は、インスタンスの負荷を監視し、それに従ってワークフローを計画できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27455?quality=12&learn=on&captions=jpn){transcript=true}

@@ -20,7 +20,7 @@ ht-degree: 30%
 
 Adobe Campaignでは、ワークフローを使用して、ターゲティングキャンペーンの実行、キャンペーンの作成、またはAdobe Campaignの技術プロセスの実行をおこないます。 このビデオでは、ターゲティングワークフローについて説明します。 ターゲティングワークフローにより、配信ターゲットをいくつか作成できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27498?quality=12&learn=on&captions=jpn){transcript=true}
 
 詳しくは、ドキュメント [ ワークフローについて ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=ja) を参照してください。
 さらに詳しくは、[ ターゲティングアクティビティについて ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ja) を参照してください。

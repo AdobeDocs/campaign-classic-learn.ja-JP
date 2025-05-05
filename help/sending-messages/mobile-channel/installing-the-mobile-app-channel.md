@@ -21,6 +21,6 @@ ht-degree: 100%
 
 モバイルアプリチャネルがインスタンスにインストールされているかどうかを確認する方法と、モバイルアプリチャネルのインストール方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340424?quality=12&learn=on&captions=jpn){transcript=true}
 
 モバイルアプリチャネルの設定について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=ja#installing-package-ios)を参照してください。

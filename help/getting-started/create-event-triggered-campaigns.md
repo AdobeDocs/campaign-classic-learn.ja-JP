@@ -21,4 +21,4 @@ ht-degree: 100%
 
 イベントトリガーキャンペーンを作成する方法とその用途を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/330920?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451872?quality=12&learn=on&captions=jpn){transcript=true}

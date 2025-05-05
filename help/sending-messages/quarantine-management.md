@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Campaign での強制隔離管理の仕組みと、強制隔離されたアドレスの管理方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415818?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421900?quality=12&learn=on&captions=jpn){transcript=true}

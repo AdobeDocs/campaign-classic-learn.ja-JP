@@ -21,4 +21,4 @@ ht-degree: 100%
 
 **[!UICONTROL 積集合]**&#x200B;または&#x200B;**[!UICONTROL 和集合]**&#x200B;アクティビティを使用してワークフローのクエリ結果を組み合わせ、ターゲットを絞り込む方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326549?quality=12&learn=on&captions=jpn){transcript=true}

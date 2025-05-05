@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Adobe Campaign へのログイン時に表示されるエラーや警告を修正する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335975?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436215?quality=12&learn=on&captions=jpn){transcript=true}

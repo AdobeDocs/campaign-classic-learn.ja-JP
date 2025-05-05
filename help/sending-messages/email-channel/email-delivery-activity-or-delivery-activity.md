@@ -20,4 +20,4 @@ ht-degree: 100%
 
 このビデオでは、メール配信テンプレートのデプロイ方法を説明します。メール配信と配信ワークフローの違いを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27450?quality=12&learn=on&captions=jpn){transcript=true}

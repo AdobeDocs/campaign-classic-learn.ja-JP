@@ -21,4 +21,4 @@ ht-degree: 100%
 
 受信者をターゲットにするためのワークフローを作成する方法や、メールターゲットでリストを使用する前にワークフローが繰り返されるようにする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27494?quality=12&learn=on&captions=jpn){transcript=true}

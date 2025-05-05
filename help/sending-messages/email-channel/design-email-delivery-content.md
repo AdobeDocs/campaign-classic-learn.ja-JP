@@ -20,4 +20,4 @@ ht-degree: 100%
 
 メール配信コンテンツの設定、パーソナライズ、テストの方法を説明します。テンプレートの使用、画像のアップロード、顔文字の追加、バーコードおよび QR コードの埋め込みの方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453861?learn=on&captions=jpn){transcript=true}

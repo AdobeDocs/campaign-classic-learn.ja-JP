@@ -17,4 +17,4 @@ ht-degree: 100%
 # 無効になったメッセージからのメールのトリガー
 
 無効になったメッセージからのメールを停止する方法を説明します
->[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437112?quality=12&learn=on&captions=jpn){transcript=true}

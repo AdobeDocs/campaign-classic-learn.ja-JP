@@ -22,4 +22,4 @@ Adobe Campaign には、アプリケーションサーバーの様々なモジ�
 
 このビデオでは、Adobe Campaign Classicでワークフローを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27445?quality=12&learn=on&captions=jpn){transcript=true}

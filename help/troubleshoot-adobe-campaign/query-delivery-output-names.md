@@ -18,4 +18,4 @@ ht-degree: 100%
 
 配信 XML データを取得する方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/335949?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436719?quality=12&learn=on&captions=jpn){transcript=true}

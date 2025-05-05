@@ -21,4 +21,4 @@ ht-degree: 100%
 
 既存のメールにシードと配達確認を追加して送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35776?quality=12&learn=on&captions=jpn){transcript=true}

@@ -16,4 +16,4 @@ ht-degree: 100%
 # ロードバランサーの問題
 
 インスタンス再起動時のロードバランサーの問題を修正する方法を説明します
->[!VIDEO](https://video.tv.adobe.com/v/335984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437492?quality=12&learn=on&captions=jpn){transcript=true}

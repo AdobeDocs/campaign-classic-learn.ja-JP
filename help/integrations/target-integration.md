@@ -19,7 +19,7 @@ ht-degree: 43%
 
 Adobe Target から提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453258?quality=12&learn=on&captions=jpn){transcript=true}
 
 >[!NOTE]
 > ビデオは Campaign V8 で録画されています。機能は Campaign V7 とCampaign Classic V8 の両方で同じです。

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 インスタンス上で並行して実行できるキャンペーンワークフローの数を増やす方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436575?quality=12&learn=on&captions=jpn){transcript=true}

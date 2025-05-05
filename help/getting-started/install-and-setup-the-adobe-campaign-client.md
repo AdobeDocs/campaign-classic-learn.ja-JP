@@ -21,4 +21,4 @@ ht-degree: 100%
 
 次のビデオでは、Adobe Campaign クライアントコンソールをダウンロードおよびインストールする方法、複数の環境への接続を作成し管理する方法、Adobe Campaign クライアントコンソールへのアクセスを確認する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38270?quality=12&learn=on&captions=jpn){transcript=true}

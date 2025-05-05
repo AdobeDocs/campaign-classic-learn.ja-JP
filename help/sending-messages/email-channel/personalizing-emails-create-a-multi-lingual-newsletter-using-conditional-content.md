@@ -23,6 +23,6 @@ ht-degree: 100%
 
 多言語ニュースレターの例を使用して、配信に条件付きコンテンツを追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27470?quality=12&learn=on&captions=jpn){transcript=true}
 
 パーソナライゼーションについて詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=ja).

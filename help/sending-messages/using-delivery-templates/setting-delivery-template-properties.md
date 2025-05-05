@@ -21,4 +21,4 @@ ht-degree: 100%
 
 次のビデオでは、配信テンプレートのプロパティを設定する方法と各プロパティの詳細について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37995?quality=12&learn=on&captions=jpn){transcript=true}

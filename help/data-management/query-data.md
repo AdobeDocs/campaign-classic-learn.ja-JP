@@ -21,4 +21,4 @@ ht-degree: 18%
 
 クエリエディターを使用してデータに対してクエリを実行する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447871?quality=12&learn=on&captions=jpn){transcript=true}

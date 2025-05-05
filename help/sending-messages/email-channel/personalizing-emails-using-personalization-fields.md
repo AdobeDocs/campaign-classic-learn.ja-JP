@@ -23,6 +23,6 @@ ht-degree: 100%
 
 パーソナライゼーションフィールドをメール配信の件名とコンテンツに追加する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27465?quality=12&learn=on&captions=jpn){transcript=true}
 
 パーソナライゼーションについて詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja).

@@ -21,6 +21,6 @@ ht-degree: 100%
 
 様々なタイプの動的コンテンツを理解し、パーソナライゼーションブロックと条件付きステートメントを作成して配信に適用する方法を学びます。　
 
->[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453333?quality=12&learn=on&captions=jpn){transcript=true}
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=ja)を参照してください。

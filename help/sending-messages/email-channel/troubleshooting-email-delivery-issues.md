@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Campaign でのメール配信問題のトラブルシューティング方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/343090?quality=12&learn=on&captions=jpn){transcript=true}

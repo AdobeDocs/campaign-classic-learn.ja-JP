@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!DNL Android]Campaign でサービスを設定し、[!DNL Android]モバイルアプリを作成する方法を説明します。 この手順は、プッシュ通知用のターゲットモバイルアプリケーションを定義できるようにするために必須です。
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340732?quality=12&learn=on&captions=jpn){transcript=true}
 
 **前の手順**
 

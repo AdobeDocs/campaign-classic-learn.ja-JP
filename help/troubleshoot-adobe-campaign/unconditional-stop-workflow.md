@@ -18,4 +18,4 @@ ht-degree: 100%
 
 ワークフローで無条件停止を正しく実行する方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/335887?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437448?quality=12&learn=on&captions=jpn){transcript=true}

@@ -21,6 +21,6 @@ ht-degree: 8%
 
 ランディングページの作成および設定方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448907/?quality=12&learn=on&captions=jpn){transcript=true}
 
 詳しくは、[ ランディングページの作成 ](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=ja) に関する詳細なドキュメントを参照してください。

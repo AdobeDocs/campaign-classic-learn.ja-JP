@@ -21,4 +21,4 @@ ht-degree: 100%
 
 A/B テスト用に配信を設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415929?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446288?quality=12&learn=on&captions=jpn){transcript=true}

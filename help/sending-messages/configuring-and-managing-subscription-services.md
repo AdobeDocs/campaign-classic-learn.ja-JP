@@ -21,4 +21,4 @@ ht-degree: 100%
 
 購読とターゲットの購読者を設定および管理する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/329941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452438?quality=12&learn=on&captions=jpn){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 ゼロ（0）ID の問題を修正する方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/335987?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3440138?quality=12&learn=on&captions=jpn){transcript=true}

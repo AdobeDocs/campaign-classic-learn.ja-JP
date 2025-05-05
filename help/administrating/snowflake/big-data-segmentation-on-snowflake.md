@@ -29,6 +29,6 @@ ht-degree: 100%
 * データの検索とレポート
 * データのリストへのエクスポートとリアルタイムターゲティングフィルターの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36021?quality=12&learn=on&captions=jpn){transcript=true}
 
 Snowflake へのアクセスを設定する方法について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=ja#installing-campaign-classic)を参照してください。

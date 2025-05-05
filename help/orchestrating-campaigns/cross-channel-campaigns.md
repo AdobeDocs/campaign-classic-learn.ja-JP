@@ -23,4 +23,4 @@ ht-degree: 100%
 
 顧客の最初の配信とのインタラクションに基づいて、電子メールとダイレクトメールの配信を使用してクロスチャネルキャンペーンを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453522?quality=12&learn=on&captions=jpn){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 ワークフローから[!UICONTROL 記述的分析レポート]を生成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327089?quality=12&learn=on&captions=jpn){transcript=true}

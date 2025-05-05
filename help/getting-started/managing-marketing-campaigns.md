@@ -21,4 +21,4 @@ ht-degree: 100%
 
 クロスチャネルマーケティングキャンペーンの効果的な計画、実行および測定に役立つ、[!UICONTROL Adobe Campaign] の主要概念について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326573?quality=12&learn=on&captions=jpn){transcript=true}

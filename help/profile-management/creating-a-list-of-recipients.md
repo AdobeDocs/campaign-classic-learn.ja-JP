@@ -23,4 +23,4 @@ ht-degree: 100%
 
 エクスプローラーから受信者リストを設定してオーディエンスを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27503?learn=on&captions=jpn){transcript=true}
