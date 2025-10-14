@@ -25,4 +25,4 @@ ht-degree: 77%
 
 >[!IMPORTANT]
 >ターゲティングワークフローに複数の配信がある場合は、キャンペーン設定だけでなく配信レベルでもコントロール母集団の設定を有効にする必要があります。
->[ コントロール母集団の定義方法 ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=ja#defining-a-control-group){target="_blank"} および [ 配信ターゲット母集団 ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=ja){target="_blank"} について詳しくは、製品ドキュメントを参照してください。
+>[&#x200B; コントロール母集団の定義方法 &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=ja#defining-a-control-group){target="_blank"} および [&#x200B; 配信ターゲット母集団 &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=ja){target="_blank"} について詳しくは、製品ドキュメントを参照してください。

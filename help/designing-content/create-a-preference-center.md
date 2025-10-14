@@ -24,4 +24,4 @@ Adobe Campaignの web アプリケーションエディターを使用して、�
 
 >[!VIDEO](https://video.tv.adobe.com/v/27546?quality=12&learn=on&captions=jpn){transcript=true}
 
-詳しくは、[ ランディングページの作成 ](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=ja) に関する詳細なドキュメントを参照してください。
+詳しくは、[&#x200B; ランディングページの作成 &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=ja) に関する詳細なドキュメントを参照してください。

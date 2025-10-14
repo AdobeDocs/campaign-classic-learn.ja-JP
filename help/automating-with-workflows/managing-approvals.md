@@ -24,4 +24,4 @@ ht-degree: 51%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3452608?quality=12&learn=on&captions=jpn){transcript=true}
 
-承認の定義について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=ja#sending-emails) を参照してください。
+承認の定義について詳しくは、[&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=ja#sending-emails) を参照してください。

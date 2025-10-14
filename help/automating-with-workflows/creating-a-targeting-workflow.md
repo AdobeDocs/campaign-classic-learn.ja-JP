@@ -22,5 +22,5 @@ Adobe Campaignでは、ワークフローを使用して、ターゲティング
 
 >[!VIDEO](https://video.tv.adobe.com/v/27498?quality=12&learn=on&captions=jpn){transcript=true}
 
-詳しくは、ドキュメント [ ワークフローについて ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=ja) を参照してください。
-さらに詳しくは、[ ターゲティングアクティビティについて ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ja) を参照してください。
+詳しくは、ドキュメント [&#x200B; ワークフローについて &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=ja) を参照してください。
+さらに詳しくは、[&#x200B; ターゲティングアクティビティについて &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ja) を参照してください。
