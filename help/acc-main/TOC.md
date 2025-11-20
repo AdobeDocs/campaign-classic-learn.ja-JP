@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -16,16 +16,16 @@ ht-degree: 100%
 # Adobe Campaign Classic v7 チュートリアル {#tutorials}
 
 + [Adobe Campaign Classic V7 - チュートリアル](/help/overview.md)
-+ はじめに{#getting-started}
++ はじめに {#getting-started}
    + [Adobe Campaign Classic の概要](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Adobe Campaign クライアントのインストールとセットアップ](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Adobe Campaign Classic ユーザーインターフェイスの詳細](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [マーケティングキャンペーンの管理](/help/getting-started/managing-marketing-campaigns.md)
    + [マーケティングプラン、プログラムおよびキャンペーンの作成](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [キャンペーンとメールの作成](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [ワークフローでのプロファイルのターゲティング](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [ワークフローでのプロファイルのターゲット](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [イベントトリガーキャンペーンの作成](/help/getting-started/create-event-triggered-campaigns.md)
-+ プロファイル管理{#profile-management}
++ プロファイル管理 {#profile-management}
    + [プロファイルの作成と管理](/help/profile-management/create-and-manage-profiles.md)
    + [プロファイルのインポート](/help/data-management/importing-profiles.md)
    + [受信者リストの作成](/help/profile-management/creating-a-list-of-recipients.md)
@@ -72,7 +72,7 @@ ht-degree: 100%
    + [マルチチャネルキャンペーンとクロスチャネルキャンペーンの概要](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [マルチチャネルキャンペーンの作成](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [クロスチャネルキャンペーンの作成](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-+ レポート{#reporting}
++ レポート {#reporting}
    + [ビルトインレポートへのアクセス](/help/reporting/accessing-built-in-reports.md)
    + [記述的分析レポートの生成](/help/reporting/generating-a-descriptive-analysis-report.md)
 + ワークフローを使用した自動化{#automating-with-workflows}
@@ -97,13 +97,13 @@ ht-degree: 100%
    + [監査記録](/help/monitoring-campaign-classic/audit-trail.md)
 + データ管理 {#data-management}
    + [クエリデータ](/help/data-management/query-data.md)
-+ 統合 {#integrating}
++ の統合 {#integrating}
    + [Adobe Target との統合](/help/integrations/target-integration.md)
    + [Dynamics 365 との統合](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
    + [コントロールパネル](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ja){target="_blank"}
    + [Adobe Campaign の SMS の設定](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ja)
-   + 外部データベースへのアクセス（FDA）{#fda}
+   + 外部データベースへのアクセス（FDA） {#fda}
       + [ [!DNL Snowflake] でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ja)
 + 戦略とソートリーダーシップ{#strategy}
