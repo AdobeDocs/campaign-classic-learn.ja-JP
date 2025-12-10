@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign Classic v7 のビデオとチュートリ
 breadcrumb-title: Campaign Classic v7 チュートリアル
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '415'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -97,14 +97,14 @@ ht-degree: 95%
    + [監査記録](/help/monitoring-campaign-classic/audit-trail.md)
 + データ管理 {#data-management}
    + [クエリデータ](/help/data-management/query-data.md)
-+ の統合 {#integrating}
++ 統合 {#integrating}
    + [Adobe Target との統合](/help/integrations/target-integration.md)
    + [Dynamics 365 との統合](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
    + [コントロールパネル](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ja){target="_blank"}
    + [Adobe Campaign の SMS の設定](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ja)
    + 外部データベースへのアクセス（FDA） {#fda}
-      + [&#x200B; [!DNL Snowflake] でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [ [!DNL Snowflake] でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ja)
 + 戦略とソートリーダーシップ{#strategy}
    + [マーケター向け Adobe Campaign 成功のベストプラクティス 10 件](/help/strategy/10-best-practices-for-marketers.md)
