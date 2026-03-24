@@ -6,33 +6,33 @@ solution: Campaign, Campaign Classic v7
 version: Campaign Classic v7
 feature-set: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-classic-learn.ja-JP
+git-repo: https://github.com/AdobeDocs/campaign-classic-learn.en
 index: true
-source-git-commit: 8b3e7a5dcc8b55cbc0fdb5c4220dc1329e320259
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 0%
 
 ---
 
 
-# 内部で使用されるメタデータ
+# 内部使用のためのメタデータ
 
-metadata.md ファイルには、リポジトリ内のユーザガイド TOC.md ファイルに渡されるリポジトリレベルのメタデータが含まれています。ユーザガイドの metadata.md の内容を変更する場合は、任意の TOC.md ファイルで変更します。
+metadata.md ファイルには、リポジトリ内のユーザーガイド TOC.md ファイルに渡されるリポジトレベルのメタデータが含まれています。 任意のユーザーガイドのmetadata.md コンテンツを変更する場合は、任意のTOC.md ファイルで変更します。
 
-| メタデータ | 機能 |
+| metadata | 機能 |
 |--- |--- |
-| solution-title | 記事のヘッダーでリンクとして使用 |
+| solution-title | 記事ヘッダーにリンクとして使用 |
 | solution-hub-url | helpx ハブページを開きます |
-| solution-icon | ソリューションタイトルの横にソリューションアイコンを表示します。未実装です |
-| getting-started-url | helpx の「はじめに」ページへのリンクです |
-| tutorials-url | ビデオチュートリアル（helpx チュートリアルまたは KT チュートリアル）へのリンクです |
-| mini-toc-levels | 右パネルに表示される見出しレベルの数を指定します。デフォルトは 2 です |
-| git-repo | 内部で使用されるプライマリリポジトリの場所を指定します |
+| solution-icon | ソリューションタイトルの横にソリューションアイコンを表示します。 まだ実装されていません |
+| getting-started-url | Helpx入門ページへのリンク |
+| tutorials-url | ビデオチュートリアルへのリンク - helpx チュートリアルまたはKT チュートリアル |
+| ミニ目次レベル | 右側のパネルに表示される見出しレベルの数を指定します。 デフォルトは2です |
+| git-repo | 内部使用のマスターリポジトリの場所を指定します |
 
-TOC.md ファイル内
+TOC.md ファイル
 
-| メタデータ | 機能 |
+| metadata | 機能 |
 |--- |--- |
-| user-guide-title | 記事のヘッダーでリンクとして使用 |
+| user-guide-title | 記事ヘッダーにリンクとして使用 |
 | user-guide-url | helpx ハブページを開きます |
