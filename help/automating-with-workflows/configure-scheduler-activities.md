@@ -19,4 +19,4 @@ ht-degree: 100%
 
 ワークフローでスケジューラーアクティビティを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416037?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447108?captions=jpn&quality=12&learn=on){transcript=true}
