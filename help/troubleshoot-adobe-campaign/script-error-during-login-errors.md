@@ -8,8 +8,8 @@ type: Troubleshooting
 jira: KT-8421
 exl-id: 32caed73-2410-4b55-8820-bf9d149250a6
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
-source-wordcount: '48'
+workflow-type: ht
+source-wordcount: '46'
 ht-degree: 100%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Adobe Campaign へのログイン時に表示されるエラーや警告を修正する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436215?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335975?quality=12&learn=on){transcript=true}

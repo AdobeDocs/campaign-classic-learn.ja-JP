@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: 725d5704-631b-4e5e-8910-876275d37646
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
-source-wordcount: '29'
+workflow-type: ht
+source-wordcount: '27'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 配達確認を送信し、検証する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448918?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330945?learn=on){transcript=true}

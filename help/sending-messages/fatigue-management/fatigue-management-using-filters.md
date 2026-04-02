@@ -10,15 +10,15 @@ role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
-source-wordcount: '97'
+workflow-type: ht
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 # 定義済みフィルターを使用した疲労管理の設定
 
-疲労管理では、受信者への過剰勧誘を避けるために、メッセージの頻度と数量を制御します。Campaign インスタンスにキャンペーン最適化モジュールがない場合は、受信メッセージ数でターゲット母集団をフィルタリングする定義済みフィルターを設定できます。
+疲労管理では、受信者への過剰勧誘を避けるために、メッセージの頻度と数量を制御します。 Campaign インスタンスにキャンペーン最適化モジュールがない場合は、受信メッセージ数でターゲット母集団をフィルタリングする定義済みフィルターを設定できます。
 
 このビデオでは、フィルターを使用して Adobe Campaign Classic で疲労管理を実装する方法を説明します。
 

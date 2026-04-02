@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: b63431c6-d09a-49d1-9281-e1f260842b86
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
-source-wordcount: '69'
+workflow-type: ht
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
@@ -22,4 +22,4 @@ ht-degree: 100%
 マーケティングプラン、プログラム、キャンペーンを作成する方法、キャンペーンのプロパティを設定する方法、スケジュールの使用方法について説明します。
 このビデオでは、演習の実行手順を紹介しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/326557?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35132?quality=12&learn=on){transcript=true}
