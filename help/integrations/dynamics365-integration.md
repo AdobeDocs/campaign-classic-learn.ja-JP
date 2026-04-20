@@ -23,4 +23,4 @@ ht-degree: 42%
 
 このビデオでは、Dynamics 365とAdobe Campaign Classicの統合方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23837?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327253?captions=jpn&quality=12&learn=on){transcript=true}
