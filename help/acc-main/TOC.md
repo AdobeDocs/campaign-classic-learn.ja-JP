@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Classic v7 チュートリアル
 user-guide-description: Adobe Campaign Classic v7 のビデオとチュートリアル。
 breadcrumb-title: Campaign Classic v7 チュートリアル
 auto-video-transcripts: true
-source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: ht
+source-git-commit: 22e97df9f7f13f03a1b0a2830b4a2b62c752c731
+workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -99,7 +99,7 @@ ht-degree: 100%
    + [クエリデータ](/help/data-management/query-data.md)
 + 統合 {#integrating}
    + [Adobe Target との統合](/help/integrations/target-integration.md)
-   + [Dynamics 365 との統合](/help/integrations/dynamics365-integration.md)
+   + {hide-from-toc}[Dynamics 365](/help/integrations/dynamics365-integration.md)との統合
 + 管理 {#administrating}
    + [コントロールパネル](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ja){target="_blank"}
    + [Adobe Campaign の SMS の設定](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ja)
