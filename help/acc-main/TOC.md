@@ -99,12 +99,12 @@ ht-degree: 99%
    + [クエリデータ](/help/data-management/query-data.md)
 + 統合 {#integrating}
    + [Adobe Target との統合](/help/integrations/target-integration.md)
-   + {hide-from-toc}[Dynamics 365](/help/integrations/dynamics365-integration.md)との統合
+   + {hide-from-toc}[Dynamics 365との統合](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
    + [コントロールパネル](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ja){target="_blank"}
    + [Adobe Campaign の SMS の設定](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ja)
    + 外部データベースへのアクセス（FDA） {#fda}
-      + [ [!DNL Snowflake] でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [&#x200B; [!DNL Snowflake] でのビッグデータ管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ja)
 + 戦略とソートリーダーシップ{#strategy}
    + [マーケター向け Adobe Campaign 成功のベストプラクティス 10 件](/help/strategy/10-best-practices-for-marketers.md)
