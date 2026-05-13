@@ -4,15 +4,16 @@ product: Adobe Campaign
 type: Tutorial
 solution: Campaign, Campaign Classic v7
 version: Campaign Classic v7
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
 feature-set: Campaign
 landing-page-name: campaign
 landing-page-breadcrumb-title: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-classic-learn.ja-JP
+git-repo: https://github.com/AdobeDocs/campaign-classic-learn.en
 index: true
-source-git-commit: 72d10799b685f0925d5e6dd8b8df5cf0ff38ed98
-workflow-type: ht
-source-wordcount: '149'
+source-git-commit: 3c228ff860d6fda301690efca736c68db910237d
+workflow-type: tm+mt
+source-wordcount: 149
 ht-degree: 100%
 
 ---
