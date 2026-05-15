@@ -10,18 +10,25 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 21d542e9-c021-4e05-b570-a55cac196c3a
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/52OoKtY9gojDqmfTX9z0nRgb1ueeZZDcAFnfP3pUIFI
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 51%
+source-wordcount: 89
+ht-degree: 57%
 
 ---
 
 # キャンペーンでの承認の管理
 
-承認により、オペレーターはワークフロー管理に関する意思決定を行なったり、ワークフローを継続して実行していることを確認したりできます。
+承認により、オペレーターはワークフロー管理に関する意思決定をおこなったり、実行の継続を確定したりできます。
 キャンペーンと承認を設定する方法、および配信の承認とワークフローの承認の違いについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452608?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452608?captions=jpn&quality=12&learn=on){transcript=true}
 
-承認の定義について詳しくは、[&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=ja#sending-emails) を参照してください。
+承認の定義について詳しくは、[製品ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=ja#sending-emails)を参照してください。
