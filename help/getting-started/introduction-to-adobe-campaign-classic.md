@@ -45,4 +45,4 @@ ht-degree: 100%
 
 Adobe Campaign Classic がアドビのデジタルエクスペリエンスポートフォリオにどのように適合するか、およびその主な特長と機能の概要について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39517?captions=jpn&quality=12&learn=on){transcript=true}

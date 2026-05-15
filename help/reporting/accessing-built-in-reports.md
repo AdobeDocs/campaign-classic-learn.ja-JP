@@ -32,4 +32,4 @@ ht-degree: 56%
 
 Campaign Classicに組み込まれたレポートと分析について理解し、配信レポートを生成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449487?captions=jpn&quality=12&learn=on){transcript=true}

@@ -30,4 +30,4 @@ ht-degree: 18%
 
 クエリエディターを使用してデータをクエリする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447871?captions=jpn&quality=12&learn=on){transcript=true}

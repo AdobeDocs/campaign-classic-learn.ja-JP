@@ -31,7 +31,7 @@ ht-degree: 100%
 
 [!DNL Android] アプリケーションのユーザーに [!DNL push] 通知を設定して送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340723?captions=jpn&quality=12&learn=on){transcript=true}
 
 **前の手順**
 

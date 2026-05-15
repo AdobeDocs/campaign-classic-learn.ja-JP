@@ -30,4 +30,4 @@ ht-degree: 100%
 
 キャンペーンから直接メール配信を作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27489?captions=jpn&quality=12&learn=on){transcript=true}

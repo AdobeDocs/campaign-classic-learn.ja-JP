@@ -29,6 +29,6 @@ ht-degree: 57%
 承認により、オペレーターはワークフロー管理に関する意思決定をおこなったり、実行の継続を確定したりできます。
 キャンペーンと承認を設定する方法、および配信の承認とワークフローの承認の違いについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452608?captions=jpn&quality=12&learn=on){transcript=true}
 
 承認の定義について詳しくは、[製品ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=ja#sending-emails)を参照してください。

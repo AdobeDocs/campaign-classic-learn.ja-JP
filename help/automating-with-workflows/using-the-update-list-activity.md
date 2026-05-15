@@ -28,5 +28,5 @@ ht-degree: 69%
 
 Adobe Campaign Classicのリストの概念を理解し、ワークフローでリストを更新アクティビティを使用してリストを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326565?captions=jpn&quality=12&learn=on){transcript=true}
 

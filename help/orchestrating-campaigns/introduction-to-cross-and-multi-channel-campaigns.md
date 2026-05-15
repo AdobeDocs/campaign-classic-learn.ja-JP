@@ -30,4 +30,4 @@ ht-degree: 87%
 
 マルチチャネルキャンペーンとクロスチャネルキャンペーンの違いとそれぞれの使用例を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/330984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345273?captions=jpn&quality=12&learn=on){transcript=true}

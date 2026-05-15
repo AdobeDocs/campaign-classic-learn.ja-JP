@@ -40,18 +40,18 @@ Adobe Campaign には、マーケターが配信コンテンツ、キャンペ�
 
 キャンペーンワークフローのすべての配信で一組の同じレビュー担当者がいる場合は、キャンペーンレベルで承認とレビュー担当者を設定して、キャンペーン承認機能を適用します。 ワークフローを実行すると、承認タスクとレビュー担当者がワークフローの各配信アクティビティにプッシュされます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27474?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## 配信の承認の設定  {#configuring-approvals-for-deliveries}
 
 配信レベルで承認を設定することもできます。 承認手順とレビュー担当者が配信とキャンペーンとで異なる場合は、配信の設定がキャンペーンの設定を上書きします。
 
->[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27479?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## 承認アクティビティの設定  {#configuring-an-approval-activity}
 
 配信やキャンペーンの承認とは異なり、承認アクティビティを使用すると、ワークフロー内に承認プロセスを作成できます。 これにより、配信を開始する前にターゲティングの選択ロジックを承認できます。 必要に応じて、ワークフロー内の複数のレベルで承認をおこなうこともできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27484?captions=jpn&quality=12&learn=on){transcript=true}
 
 詳しくは、[承認ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=ja)を参照してください。

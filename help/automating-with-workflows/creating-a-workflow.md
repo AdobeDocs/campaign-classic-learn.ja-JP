@@ -31,4 +31,4 @@ Adobe Campaign に含まれているワークフローモジュールを使用�
 
 このビデオでは、Adobe Campaign Classicでワークフローを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27445?captions=jpn&quality=12&learn=on){transcript=true}

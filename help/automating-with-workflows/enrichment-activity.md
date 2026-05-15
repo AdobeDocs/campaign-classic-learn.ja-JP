@@ -28,6 +28,6 @@ ht-degree: 80%
 
 配信ログ情報に基づいてエンリッチメントアクティビティを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37618?captions=jpn&quality=12&learn=on){transcript=true}
 
 エンリッチメントについて詳しくは、[製品ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=ja)を参照してください

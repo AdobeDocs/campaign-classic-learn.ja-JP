@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **[!UICONTROL 標準的な除外]**&#x200B;をワークフローに適用して、ターゲットを絞り込む方法を説明します。 また、定義済みフィルターを作成する方法と、ワークフローのトラブルシューティングを行う方法についても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326455?captions=jpn&quality=12&learn=on){transcript=true}
