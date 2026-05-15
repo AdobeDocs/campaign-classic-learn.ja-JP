@@ -9,7 +9,7 @@ activity: use
 team: TM
 role: Admin
 level: Beginner
-original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html?lang=ja
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
 TQID: https://experienceleague.adobe.com/2dGQdUbkhtgQLHNg58I4HFbXnLpxjCWnkvIL-kbM2Hc
 product_v2:
