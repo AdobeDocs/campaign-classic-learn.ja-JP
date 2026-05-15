@@ -1,6 +1,6 @@
 ---
-title: プロファイルのインポート方法
-description: Adobe Campaign Classicでプロファイルをインポートする方法を説明します
+title: プロファイルの読み込み方法
+description: Adobe Campaign Classicでプロファイルを読み込む方法について説明します
 feature: Profiles
 jira: KT-2176
 doc-type: feature video
@@ -9,15 +9,19 @@ team: TM
 role: User, Admin, Developer
 level: Beginner
 exl-id: 373c0247-fd72-4c36-b2d6-cb758dc72492
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/gIBzu-OX1urGJ5zm3FqKPqCS7xuULzHyQ7-ZFmSKLSU
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '30'
-ht-degree: 6%
+source-wordcount: 28
+ht-degree: 0%
 
 ---
 
-# プロファイルのインポート方法
+# プロファイルの読み込み方法
 
 このビデオでは、Adobe Campaign Classicでプロファイルを読み込む方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/328395?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12&learn=on){transcript=true}

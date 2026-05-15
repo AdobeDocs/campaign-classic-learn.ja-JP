@@ -9,13 +9,16 @@ team: TM
 role: User
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/KhR76gfI2ZAMjDZDHCm7tOqQcJ5atG23hAwssYh3kcc
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: 274
 ht-degree: 96%
 
 ---
-
 
 # 検証ワークフローの作成
 
@@ -32,20 +35,20 @@ Adobe Campaign には、マーケターが配信コンテンツ、キャンペ�
 
 ## キャンペーンの承認の設定  {#configuring-approvals-for-campaigns}
 
-キャンペーンワークフローのすべての配信で一組の同じレビュー担当者がいる場合は、キャンペーンレベルで承認とレビュー担当者を設定して、キャンペーン承認機能を適用します。ワークフローを実行すると、承認タスクとレビュー担当者がワークフローの各配信アクティビティにプッシュされます。
+キャンペーンワークフローのすべての配信で一組の同じレビュー担当者がいる場合は、キャンペーンレベルで承認とレビュー担当者を設定して、キャンペーン承認機能を適用します。 ワークフローを実行すると、承認タスクとレビュー担当者がワークフローの各配信アクティビティにプッシュされます。
 
->[!VIDEO](https://video.tv.adobe.com/v/27474?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12&learn=on){transcript=true}
 
 ## 配信の承認の設定  {#configuring-approvals-for-deliveries}
 
-配信レベルで承認を設定することもできます。承認手順とレビュー担当者が配信とキャンペーンとで異なる場合は、配信の設定がキャンペーンの設定を上書きします。
+配信レベルで承認を設定することもできます。 承認手順とレビュー担当者が配信とキャンペーンとで異なる場合は、配信の設定がキャンペーンの設定を上書きします。
 
->[!VIDEO](https://video.tv.adobe.com/v/27479?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12&learn=on){transcript=true}
 
 ## 承認アクティビティの設定  {#configuring-an-approval-activity}
 
-配信やキャンペーンの承認とは異なり、承認アクティビティを使用すると、ワークフロー内に承認プロセスを作成できます。これにより、配信を開始する前にターゲティングの選択ロジックを承認できます。必要に応じて、ワークフロー内の複数のレベルで承認をおこなうこともできます。
+配信やキャンペーンの承認とは異なり、承認アクティビティを使用すると、ワークフロー内に承認プロセスを作成できます。 これにより、配信を開始する前にターゲティングの選択ロジックを承認できます。 必要に応じて、ワークフロー内の複数のレベルで承認をおこなうこともできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/27484?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12&learn=on){transcript=true}
 
 詳しくは、[承認ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=ja)を参照してください。
