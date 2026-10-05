@@ -39,18 +39,18 @@ Adobe Campaign では、コンテンツやメッセージの外観をパーソ�
 
 パーソナライゼーションブロックは動的なもので、配信に追加できる特定のレンダリングコードを含んでいます。 例えば、画像、メールのヘッダーやフッター、ミラーページリンク、購読解除リンクなどを追加できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27460?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## 配信へのパーソナライゼーションフィールドの追加
 
 パーソナライゼーションフィールドは、配信されるメッセージのコンテンツをパーソナライズする第 1 レベルの手段として使用されます。 メインコンテンツに挿入したフィールドが、選択したデータソースからのデータが配置される場所を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27465?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## 配信への条件付きコンテンツの追加
 
 条件付きコンテンツフィールドを設定すると、高度なパーソナライゼーションを作成できます。 特定の条件が成立した場合、テキストブロックや画像がすべて置き換わります。 このビデオでは、複数言語のニュースレターの例を使用して、配信に条件付きコンテンツを追加する方法を実演しました。
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27470?captions=jpn&quality=12&learn=on){transcript=true}
 
 パーソナライゼーションについて詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja)を参照してください。
