@@ -53,7 +53,7 @@ ht-degree: 81%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
 
-*製品プロファイル管理者に管理者を追加して、[!UICONTROL  コントロールパネル ] （01:03分）*&#x200B;を使用できるようにする方法
+*製品プロファイル管理者に管理者を追加して、[!UICONTROL &#x200B; コントロールパネル &#x200B;] （01:03分）*&#x200B;を使用できるようにする方法
 
 ### 参考になるドキュメント
 

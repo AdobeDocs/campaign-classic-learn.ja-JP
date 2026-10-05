@@ -44,4 +44,4 @@ ht-degree: 80%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on){transcript=true}
 
-エンリッチメントについて詳しくは、[製品ドキュメント ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=ja)を参照してください
+エンリッチメントについて詳しくは、[製品ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=ja)を参照してください
