@@ -9,20 +9,29 @@ team: PM
 role: Admin
 level: Intermediate
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-TQID: https://experienceleague.adobe.com/CG2JuTLv5UzoHcKc62AoAN24xYuR01tRd8vAm9jdEpE
+TQID: 'https://experienceleague.adobe.com/CG2JuTLv5UzoHcKc62AoAN24xYuR01tRd8vAm9jdEpE'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+    internal-label: Administration
+subfeature_v2:
+  - id: cebd7cfa-b9fa-4d9f-a2ab-fce31f32c4a3
+    internal-label: Audit trail
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+    internal-label: Intermediate
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: 174
+source-wordcount: '174'
 ht-degree: 100%
-
 ---
-
 # 監査記録の使用方法
 
 [!UICONTROL 監査記録]は、Adobe Campaign 内で発生するアクションとイベントの包括的なリストをリアルタイムで記録します。 [!UICONTROL 監査記録]機能には、セルフサービス方式でデータの履歴にアクセスして次のような質問に回答するための手段が含まれています。
@@ -48,6 +57,6 @@ ht-degree: 100%
 
 次のビデオでは、監査記録ログにアクセスする場所と可能な設定について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33955?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on){transcript=true}
 
 詳しくは、[監査記録のドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=ja)を参照してください。

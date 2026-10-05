@@ -8,32 +8,39 @@ jira: KT-9601
 thumbnail: 341030.jpg
 exl-id: 1338427d-d75e-4480-9377-f8e68e067364
 badgeIntegration: label="統合" type="positive"
-TQID: https://experienceleague.adobe.com/W3JIGZ3C878CoChf4IiE6ZC-JzZbIY1-nDoHWqDk-2M
+TQID: 'https://experienceleague.adobe.com/W3JIGZ3C878CoChf4IiE6ZC-JzZbIY1-nDoHWqDk-2M'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
 feature_v2:
   - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
   - id: d5ef99fa-df0c-4153-bf94-105ad0724167
+    internal-label: Integrations
 subfeature_v2:
   - id: b1fd1501-3105-4d6b-b4d4-9af53126df75
+    internal-label: Target integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+    internal-label: Data management
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: 62
+source-wordcount: '62'
 ht-degree: 43%
-
 ---
-
 # Campaign Classic V7とAdobe Targetの統合
 
 Adobe Target から提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453258?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
 
 >[!NOTE]
 > ビデオはCampaign V8で録画されていますが、機能はCampaign Classic V7とCampaign V8の両方で同じです。
