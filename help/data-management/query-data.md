@@ -10,22 +10,29 @@ role: User
 level: Intermediate
 last-substantial-update: 2023-03-06T00:00:00.000Z
 exl-id: 78a03e83-1546-4832-a6bf-2b35215378e8
-TQID: https://experienceleague.adobe.com/pgsAoTaVatUZVPCNBXKN-d-mEbPycyguA8D4pxJQzvA
+TQID: 'https://experienceleague.adobe.com/pgsAoTaVatUZVPCNBXKN-d-mEbPycyguA8D4pxJQzvA'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+    internal-label: Data management
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: 22
+source-wordcount: '22'
 ht-degree: 18%
-
 ---
-
 # クエリデータ
 
 クエリエディターを使用してデータをクエリする方法を説明します。

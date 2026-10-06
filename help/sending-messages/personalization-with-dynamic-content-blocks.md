@@ -7,13 +7,22 @@ doc-type: feature video
 activity: use
 level: Intermediate
 team: TM
-source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
-workflow-type: ht
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: 13af5358-448e-5a4a-850b-0db592bb0f8f
+    internal-label: Personalization
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
+workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 100%
-
 ---
-
 
 # 動的コンテンツブロックを使用してメールをパーソナライズする方法
 

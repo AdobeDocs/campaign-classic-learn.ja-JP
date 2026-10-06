@@ -10,22 +10,30 @@ team: DOC
 role: User, Admin, Developer
 level: Beginner
 exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
-TQID: https://experienceleague.adobe.com/5lQeDZPoxEy9H9Bf5dHHUyDTYg26Oz7fhcWC7Re00VI
+TQID: 'https://experienceleague.adobe.com/5lQeDZPoxEy9H9Bf5dHHUyDTYg26Oz7fhcWC7Re00VI'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: 5ea984c6-e1ec-59c0-bf35-0d3c05f585e1
+    internal-label: Client Console
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+    internal-label: Beginner
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: 76
+source-wordcount: '76'
 ht-degree: 100%
-
 ---
-
 # Adobe Campaign クライアントのインストールとセットアップ
 
 次のビデオでは、Adobe Campaign クライアントコンソールをダウンロードおよびインストールする方法、複数の環境への接続を作成し管理する方法、Adobe Campaign クライアントコンソールへのアクセスを確認する方法について説明します。

@@ -8,28 +8,46 @@ level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00.000Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-TQID: https://experienceleague.adobe.com/jiq7zZmYG0oBm3EEDbovZSuYXSN1mAChXMMrc656tJg
+TQID: 'https://experienceleague.adobe.com/jiq7zZmYG0oBm3EEDbovZSuYXSN1mAChXMMrc656tJg'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
   - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
+  - id: 13af5358-448e-5a4a-850b-0db592bb0f8f
+    internal-label: Personalization
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: afa4204e-6d08-4e29-bc35-26aafb656d48
+    internal-label: Profiles and audiences
+subfeature_v2:
+  - id: d4adbfcb-4ec0-5691-b003-d940294aa34c
+    internal-label: Subscriptions
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+    internal-label: Data management
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: 1354
+source-wordcount: '1354'
 ht-degree: 100%
-
 ---
-
 # マーケター向けの [!DNL Adobe Campaign] 成功のベストプラクティス 10 件
 
 Christian Klimczyk は、[!DNL Adobe Experience Cloud] を専門とした（主に [!DNL Adobe Campaign] に焦点を当てた） 7 年の経験を持つ自称「Adobe オタク」です。 大規模な CPG 企業の Adobe Platform オーナーである Christian と彼のチームは、すべての消費者との通信とインタラクションに [!DNL Campaign] を使用しています。 厳しい規制要件と、ダイレクトメール、メール、SMS／MMS にわたるマルチチャネルの消費者マーケティングキャンペーンをシームレスに調整および管理します。
