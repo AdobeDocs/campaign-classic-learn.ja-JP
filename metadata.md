@@ -4,9 +4,6 @@ product: Adobe Campaign
 type: Tutorial
 solution: Campaign, Campaign Classic v7
 version: Campaign Classic v7
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
 usetq: true
 feature-set: Campaign
 landing-page-name: campaign
@@ -14,13 +11,16 @@ landing-page-breadcrumb-title: Campaign
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-classic-learn.ja-JP
 index: true
-source-git-commit: 0764560367b305aa78f8094c0868ec237af546e3
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+source-git-commit: d9100419650e83a723f04f26db379678bb9bdf32
 workflow-type: tm+mt
-source-wordcount: 149
+source-wordcount: '143'
 ht-degree: 100%
-
 ---
-
 
 # 内部使用のためのメタデータ
 
