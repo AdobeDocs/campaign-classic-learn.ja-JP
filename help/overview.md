@@ -32,9 +32,9 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 83%
+ht-degree: 100%
 ---
 # Adobe Campaign Classic v7 チュートリアル
 
@@ -62,7 +62,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     </a>
     <div>
       <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-    <strong> ワークフローヒートマップ </strong>
+    <strong>ワークフローヒートマップ</strong>
     </a>
     </div>
     <p>
@@ -88,7 +88,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-    <strong>AMPを使用したインタラクティブな電子メールコンテンツの定義</strong>
+    <strong>AMP を使用したインタラクティブな E メールコンテンツの定義</strong>
     </a>
     </div>
     <p>

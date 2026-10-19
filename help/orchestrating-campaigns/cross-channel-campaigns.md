@@ -31,7 +31,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 ---
@@ -41,4 +41,4 @@ ht-degree: 100%
 
 顧客の最初の配信とのインタラクションに基づいて、電子メールとダイレクトメールの配信を使用してクロスチャネルキャンペーンを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453522?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12&learn=on){transcript=true}

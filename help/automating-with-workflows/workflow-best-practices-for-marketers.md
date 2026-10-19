@@ -32,7 +32,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
 ht-degree: 100%
 ---
@@ -40,4 +40,4 @@ ht-degree: 100%
 
 Adobe Campaign の強力な機能であるワークフローは、キャンペーンを管理し、より簡単に顧客にリーチするのに役立ちます。 LoyaltyOne のマーケティング担当アソシエイトディレクターである Adam Wilson 氏から、マーケターにとって不可欠な 5 つのワークフローのベストプラクティスを学び、適用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448119?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}

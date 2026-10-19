@@ -29,7 +29,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 ---
@@ -37,6 +37,6 @@ ht-degree: 100%
 
 モバイルアプリチャネルがインスタンスにインストールされているかどうかを確認する方法と、モバイルアプリチャネルのインストール方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340424?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
 モバイルアプリチャネルの設定について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=ja#installing-package-ios)を参照してください。

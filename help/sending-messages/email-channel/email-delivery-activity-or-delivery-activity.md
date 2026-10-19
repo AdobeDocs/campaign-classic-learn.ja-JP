@@ -17,7 +17,7 @@ feature_v2:
   - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
     internal-label: Email
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 ---
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 このビデオでは、メール配信テンプレートのデプロイ方法を説明します。 メール配信と配信ワークフローの違いを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27450?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on){transcript=true}

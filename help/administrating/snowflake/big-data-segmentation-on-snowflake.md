@@ -41,7 +41,7 @@ topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
     internal-label: Data management
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
 ht-degree: 100%
 ---
@@ -59,6 +59,6 @@ ht-degree: 100%
 * データの検索とレポート
 * データのリストへのエクスポートとリアルタイムターゲティングフィルターの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/36021?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
 
 Snowflake へのアクセスを設定する方法について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=ja#installing-campaign-classic)を参照してください。

@@ -61,7 +61,7 @@ topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
     internal-label: Machine learning
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 ---
@@ -69,4 +69,4 @@ ht-degree: 100%
 
 Adobe Campaign Classic がアドビのデジタルエクスペリエンスポートフォリオにどのように適合するか、およびその主な特長と機能の概要について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/39517?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&learn=on){transcript=true}

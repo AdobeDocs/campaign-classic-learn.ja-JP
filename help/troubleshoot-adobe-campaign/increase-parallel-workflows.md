@@ -25,7 +25,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 ---
@@ -33,4 +33,4 @@ ht-degree: 100%
 
 インスタンス上で並行して実行できるキャンペーンワークフローの数を増やす方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3436575?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}

@@ -22,11 +22,11 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
 ht-degree: 100%
 ---
 # 無効になったメッセージからのメールのトリガー
 
 無効になったメッセージからのメールを停止する方法を説明します
->[!VIDEO](https://video.tv.adobe.com/v/3437112?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on){transcript=true}

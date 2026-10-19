@@ -38,7 +38,7 @@ topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
 ht-degree: 100%
 ---
@@ -50,7 +50,7 @@ ht-degree: 100%
 
 次のビデオでは、Adobe Campaign Classic で AMP を有効にする方法を説明し、その使用方法を紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35081?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
 
 [AMP エディター](https://playground.amp.dev/)を使用して、独自の AMP コードを作成できます。
 

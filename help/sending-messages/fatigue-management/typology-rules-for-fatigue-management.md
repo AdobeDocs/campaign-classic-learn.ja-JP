@@ -37,7 +37,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
 ht-degree: 100%
 ---
@@ -49,6 +49,6 @@ ht-degree: 100%
 
 このビデオでは、タイポロジルールを適用して Adobe Campaign Classic で疲労管理を実装する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27518?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on){transcript=true}
 
 [キャンペーンタイポロジ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ja)について詳しくは、製品ドキュメントを参照してください。
