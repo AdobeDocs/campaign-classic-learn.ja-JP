@@ -15,9 +15,9 @@ feature_v2:
   - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
     internal-label: Control Panel
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '365'
-ht-degree: 81%
+ht-degree: 100%
 ---
 
 # [!UICONTROL コントロールパネル]のトラブルシューティング
@@ -32,7 +32,7 @@ ht-degree: 81%
 ### 症状：Experience Cloud ホームで、[!UICONTROL コントロールパネル]にアクセスするためのリンクがユーザーに表示されない
 
 **原因：**
-ユーザーは、製品プロファイル _Campaign-xxx-Administrators/Admin_&#x200B;にユーザーとして追加されるまで、リンクを表示しません。
+製品プロファイル _Campaign-xxx-Administrators/Admin_ にユーザーとして追加されるまでは、ユーザーにリンクは表示されません。
 
 **対処方法：**
 管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。 ユーザーがすべてのインスタンスの管理者であっても、自分自身を「ユーザー」として追加する必要があります。
@@ -40,7 +40,7 @@ ht-degree: 81%
 ### 症状：インスタンスが [!UICONTROL コントロールパネル]に表示されない
 
 **原因：**
-見つからないインスタンスについて、最も可能性の高いユーザーを「ユーザー」製品プロファイル _Campaign-xxx-Administrators/Admin_&#x200B;として追加する必要があります
+不足しているインスタンスについては、おそらく、「ユーザー」製品プロファイル _Campaign-xxx-Administrators/Admin_ としてユーザーを追加する必要があります。
 
 **対処方法：**
 管理者が、管理する各インスタンスの製品プロファイル _Campaign-xxx-Admins_ にユーザーを追加する必要があります。 ユーザーがすべてのインスタンスの管理者であっても、自分自身を「ユーザー」として追加する必要があります。
@@ -49,11 +49,11 @@ ht-degree: 81%
 
 >[!VIDEO](https://video.tv.adobe.com/v/35064?captions=jpn&quality=12&learn=on){transcript=true}
 
-*IMS組織IDを確認（00:26分）*
+*IMS 組織 ID の確認（00:26 分）*
 
 >[!VIDEO](https://video.tv.adobe.com/v/35055?captions=jpn&quality=12&learn=on){transcript=true}
 
-*製品プロファイル管理者に管理者を追加して、[!UICONTROL &#x200B; コントロールパネル &#x200B;] （01:03分）*&#x200B;を使用できるようにする方法
+*製品プロファイル「管理者」に管理者を追加して[!UICONTROL コントロールパネル]を使用できるようにする方法（01:03 分）*
 
 ### 参考になるドキュメント
 

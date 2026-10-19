@@ -17,7 +17,7 @@ product_v2:
   - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
     internal-label: Campaign Classic v7
 source-git-commit: d9100419650e83a723f04f26db379678bb9bdf32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
 ht-degree: 100%
 ---
