@@ -51,7 +51,7 @@ Adobe Campaignを使用すると、共通のコンシューマー属性やその
 
 Adobe Campaignの統合顧客プロファイルを利用すれば、デモグラフィック情報「郵便番号」「住所」「性別」などのプロファイル属性から、インタラクションデータ、電子メールの開封、web サイトへの訪問などのプロファイル属性、コンバージョンデータ、オフラインデータに至るまで、あらゆるデータを大規模に取得し、管理できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507726?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## 顧客プロファイルの作成と更新 {#customer-profile-creation-and-update}
 
@@ -63,5 +63,5 @@ Adobe Campaignの統合顧客プロファイルを利用すれば、デモグラ
 
 注意：このビデオはAdobe Campaign Classic V6で録画されていますが、機能はまったく同じですが、ワークフローアイコンが変更されています。
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507871?captions=jpn&quality=12&learn=on){transcript=true}
 
