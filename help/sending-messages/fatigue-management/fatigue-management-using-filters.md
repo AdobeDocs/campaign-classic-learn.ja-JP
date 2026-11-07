@@ -51,6 +51,6 @@ ht-degree: 100%
 
 このビデオでは、フィルターを使用して Adobe Campaign Classic で疲労管理を実装する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507442?captions=jpn&quality=12&learn=on){transcript=true}
 
 [キャンペーンタイポロジ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ja)について詳しくは、製品ドキュメントを参照してください。
